@@ -10,6 +10,6 @@ class Ankieta
 {
     public static function doSomething()
     {
-        var_dump('do something');
+        var_dump('do something more');
     }
 }
